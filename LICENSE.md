@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NONONONONONONOONNOONONONONONONONONONONONOONONONONONONONONONONONOON
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -9,6 +10,9 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+=======
+MIT License
+>>>>>>> branch1
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONON
   "name": "airbnb-style",
   "version": "2.0.0",
@@ -10,6 +11,9 @@ NONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONONO
     "lint": "markdownlint --config linters/.markdownlint.json README.md */README.md",
     "pretest": "npm run --silent lint",
     "test": "npm run --silent test:config && npm run --silent test:config:base",
+=======
+"test": "npm run --silent test:config && npm run --silent test:config:base",
+>>>>>>> branch1
     "test:config": "cd packages/eslint-config-airbnb; npm test",
     "test:config:base": "cd packages/eslint-config-airbnb-base; npm test",
     "pretravis": "npm run --silent lint",
